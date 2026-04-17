@@ -3,6 +3,7 @@ message: "If you use these scripts, please cite it as below."
 authors:
 - Saeedi,
   Hanieh
+  2026
 Gaps and drivers of global marine animal biodiversity, from surface to Abyss
 version: v1.2
 date-released: 2026-04-17
