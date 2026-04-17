@@ -1,8 +1,8 @@
 cff-version: 1.1.0
 message: "If you use these scripts, please cite it as below."
 authors:
--Hanieh
- Saeedi
+ -Hanieh
+  Saeedi
   2026
 Gaps and drivers of global marine animal biodiversity, from surface to Abyss
 version: v1.2
