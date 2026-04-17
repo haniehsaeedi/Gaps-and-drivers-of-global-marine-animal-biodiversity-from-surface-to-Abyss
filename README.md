@@ -1,7 +1,7 @@
 cff-version: 1.1.0
 message: "If you use these scripts, please cite it as below."
 authors:
-- Saeedi
+- Saeedi,
   Hanieh
 orcid: https://orcid.org/0000-0002-4845-0241
 title:Gaps and drivers of global marine animal biodiversity, from surface to Abyss
