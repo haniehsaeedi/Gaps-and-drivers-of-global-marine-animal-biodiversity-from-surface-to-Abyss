@@ -32,9 +32,9 @@ library(taxize) # for get_gbifid
 library(dplyr)
 
 # fill in your gbif.org credentials 
-user <- "GBIF_USER" 
-pwd <- "GBIF_PWD" 
-email <- "GBIF_EMAIL"
+user <- "" 
+pwd <- "" 
+email <- ""
 
 name_backbone("Animalia") # get the taxon id information
 
